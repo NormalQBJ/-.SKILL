@@ -1,0 +1,9 @@
+interface:
+  display_name: "BNU Campus Skill"
+  short_description: "BNU undergraduate campus knowledge and planning skill"
+  icon_small: "./assets/bnu-skill.png"
+  icon_large: "./assets/bnu-skill.png"
+  default_prompt: "Use $bnu-campus-skill to answer a BNU undergraduate question about courses, planning, school resources, or study abroad patterns."
+
+policy:
+  allow_implicit_invocation: true
