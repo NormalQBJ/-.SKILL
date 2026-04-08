@@ -1,10 +1,8 @@
-# BNU Campus Skill
-
-Public-facing name: `碧恩优.SKILL`
+# 碧恩优.SKILL
 
 ---
 
-`BNU Campus Skill` 是一个面向碧恩优在读本科生的校园知识 Skill，重点覆盖：
+`碧恩优.SKILL` 是一个面向碧恩优在读本科生的校园知识 Skill，重点覆盖：
 - 选课、课程画像、GPA、成绩单、英语免修
 - 保研、留学、就业导向、直博、一年制授课硕士等路径选择
 - 学生规模、学部画像、学校资源利用
