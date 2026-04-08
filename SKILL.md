@@ -3,9 +3,7 @@ name: bnu-campus-skill
 description: Campus knowledge skill for BNU undergraduates, focused on course selection, academic pathways, information gaps, faculty profiles, and study abroad offer patterns.
 ---
 
-# BNU Campus Skill
-
-Public-facing name: `碧恩优.SKILL`
+# 碧恩优.SKILL
 
 A campus knowledge skill for BNU undergraduates, organized around course decisions, pathway planning, school profile, and study abroad patterns.
 
